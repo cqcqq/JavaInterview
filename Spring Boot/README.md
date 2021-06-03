@@ -14,6 +14,3 @@
 
 
 **自动配置报告**
- - 在application.yml配置debug: true
- - 
- - 
