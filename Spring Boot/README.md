@@ -5,3 +5,4 @@
  - /project/src/main/resource/config/
  - /project/src/main/resource/
  - 优先级顺序从高到低，高优先级的配置会覆盖低优先级的配置。
+ - https://docs.spring.io/spring-boot/docs/2.3.0.RELEASE/reference/html/spring-boot-features.html#boot-features-external-config
